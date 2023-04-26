@@ -6,7 +6,7 @@
   <br/>
 
   # Hello Microverse Project
-  > This is a training project GitHub flow and Linters
+  > This is a training project on GitHub flow and Linters
 </div>
 
 
