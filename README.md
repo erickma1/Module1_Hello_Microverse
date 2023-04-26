@@ -83,10 +83,10 @@
 ### Prerequisites
 One of the following browsers is required:
 <ul>
-    <li><a href="#">Apple Safari</a></li>
-    <li><a href="#">Google Chrome</a></li>
-    <li><a href="#">Microsoft Edge</a></li>
-    <li><a href="#">Mozilla Firefox</a></li>
+    <li><a href="https://www.apple.com/safari/">Apple Safari</a></li>
+    <li><a href="https://www.google.com/chrome/">Google Chrome</a></li>
+    <li><a href="https://www.microsoft.com/edge">Microsoft Edge</a></li>
+    <li><a href="https://www.mozilla.org/en-US/firefox">Mozilla Firefox</a></li>
   </ul>
 
 
