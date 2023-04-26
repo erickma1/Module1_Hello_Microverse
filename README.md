@@ -26,7 +26,7 @@ After you're finished please remove all the comments and instructions!
  
   <br/>
 
-  <h3><b>Hello Microverse Project</b></h3>
+  # Hello Microverse Project
 
 </div>
 
