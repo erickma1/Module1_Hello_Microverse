@@ -81,7 +81,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
-
+One of the following browsers is required:
 <ul>
     <li><a href="#">Apple Safari</a></li>
     <li><a href="#">Google Chrome</a></li>
