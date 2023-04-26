@@ -6,7 +6,7 @@
   <br/>
 
   # Hello Microverse Project
-  > This is a training project on HTML, CSS and Linters
+  > This is a training project GitHub flow and Linters
 </div>
 
 
@@ -33,7 +33,7 @@
 
 # 📖 Microverse project to test technical abilities. <a name="about-project"></a>
 
-**[your_project__name]** is a...
+**Hello Microverse** is a project to help master knowledge of GitHub flow and linters
 
 ## 🛠 Built With <a name="built-with"></a>
 
