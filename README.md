@@ -1,36 +1,14 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-Modify this file to match your project and remove sections that don't apply.
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-OPTIONAL SECTIONS:
-- FAQ
-After you're finished please remove all the comments and instructions!
--->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
- 
+  
   <br/>
 
   # Hello Microverse Project
-
+  > This is a training project on HTML, CSS and Linters
 </div>
 
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -52,7 +30,6 @@ After you're finished please remove all the comments and instructions!
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 Microverse project to test technical abilities. <a name="about-project"></a>
 
@@ -86,7 +63,6 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
@@ -97,7 +73,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -106,7 +81,6 @@ After you're finished please remove all the comments and instructions!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -124,38 +98,16 @@ In order to run this project you need any one of the following browsers:
   </ul>
 
 
-<!--
-Example command:
-```sh
- gem install rails
-```
- -->
-
 ### Setup
 
 Clone this repository to your desired folder:
 <br />
 
 'git clone https://github.com/erickma1/Module1_Hello_Microverse.git'
-<!--
-Example commands:
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
 No installation required
-
-<!--
-Example command:
-```sh
-  cd my-project
-  gem install
-```
---->
 
 ### Usage
 
@@ -164,39 +116,17 @@ To run the project, execute the following command:
 navigate to your project directory by typing cd <project_folder> in your command prompt
 type index.html
 
-<!--
-Example command:
-```sh
-  rails server
-```
---->
-
 ### Run tests
 
 To run tests, run the following command:
 N/A
-
-<!--
-Example command:
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
 You can deploy this project using:
 Hosting on a webserver that supports HTML and CSS files
 
-<!--
-Example:
-```sh
-```
- -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -208,10 +138,6 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
-
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
@@ -220,15 +146,12 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
 ## ⭐️ Show your support <a name="support"></a>
 
 > - Give a STAR⭐️ to support this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -237,8 +160,6 @@ I would like to thank Microverse for their support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
